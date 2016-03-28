@@ -1,7 +1,12 @@
+*~
+.DS_Store
+project.pbxproj
+bin
+
 # Built application files
 *.apk
 *.ap_
-
+å
 # Files for the Dalvik VM
 *.dex
 
@@ -30,3 +35,7 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
